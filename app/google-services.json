@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757879431945",
+    "project_id": "kalkulatorfbs",
+    "storage_bucket": "kalkulatorfbs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757879431945:android:cdf4bfe66edc5d5b1aa9d8",
+        "android_client_info": {
+          "package_name": "com.example.kalkulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757879431945-nuojs02d47qgrt9975993d334db5nijg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-tCHY0CMYcEuRGVNQBP0aeTcPJUCCaSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757879431945-nuojs02d47qgrt9975993d334db5nijg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
